@@ -1,5 +1,5 @@
 # animal-crossing-reviews
-Sentiment analysis of user reviews for Animal Crossing New Horizons, created as my final project for the machine learning class I took in university. 
+Sentiment analysis of user reviews for Animal Crossing New Horizons, created in November 2024-December 2024 as my final project for the machine learning class I took in university. 
 
 This branch (main) contains the final project results using random forest and clustering for classifying reviews as either positive or negative.
 
