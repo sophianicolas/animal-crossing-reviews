@@ -5,6 +5,8 @@ Sentiment analysis of user reviews for Animal Crossing New Horizons, created as 
 The Animal Crossing Reviews dataset is from Jesse Montipak on Kaggle:
 https://www.kaggle.com/datasets/jessemostipak/animal-crossing/data
 
+Images used as graphics for my presentation were found on Pinterest.
+
 
 This branch (main) contains the final project results using random forest and clustering for classifying reviews as either positive or negative.
 
