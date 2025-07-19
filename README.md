@@ -3,7 +3,7 @@ Sentiment analysis of user reviews for Animal Crossing New Horizons, created in 
 
 This branch (results-stage-one) contains the initial "Stage One" phase of this project. Here, I was figuring out overall problem solving structure and what algorithms I wanted to use for classification, beginning with the desire to learn about clustering and word cloud representation.
 
-Included is a Jupyter notebook containing Stage One code, another Jupyter notebook containing a lab for clustering algorithm development, a CSV file containing user review data, a PDF report describing initial process and results, and a PDF of my presentation slides.
+Included is a Jupyter notebook containing Stage One code, another Jupyter notebook containing a lab for clustering algorithm development, a CSV file containing user review data, and a PDF of my presentation slides.
 
 Had a lot of fun with this and learned so much!
 
