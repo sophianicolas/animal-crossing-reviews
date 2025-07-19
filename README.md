@@ -1,4 +1,5 @@
 # animal-crossing-reviews
+# Stage One Results
 Sentiment analysis of user reviews for Animal Crossing New Horizons, created in November 2024-December 2024 as my final project for the machine learning class I took in university.
 
 This branch (results-stage-one) contains the initial "Stage One" phase of this project. Here, I was figuring out overall problem solving structure and what algorithms I wanted to use for classification, beginning with the desire to learn about clustering and word cloud representation.
